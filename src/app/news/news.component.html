@@ -1,0 +1,11 @@
+<div class="news-section">
+    <h2>Latest News</h2>
+    <ul>
+      <li *ngFor="let newsItem of newsItems">
+        <h3>{{ newsItem.title }}</h3>
+        <p>{{ newsItem.content }}</p>
+        <small>{{ newsItem.date | date }}</small>
+      </li>
+    </ul>
+  </div>
+  

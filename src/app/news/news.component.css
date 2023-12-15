@@ -1,0 +1,36 @@
+.news-section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .news-section h2 {
+    text-align: center;
+  }
+  
+  .news-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .news-section li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .news-section h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .news-section p {
+    margin: 0;
+  }
+  
+  .news-section small {
+    display: block;
+    margin-top: 10px;
+    color: #666;
+  }
+  

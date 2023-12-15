@@ -1,0 +1,11 @@
+.services {
+    background-color: #e7e7e7;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+  }
+  

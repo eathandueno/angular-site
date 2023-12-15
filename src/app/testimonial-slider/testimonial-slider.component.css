@@ -1,0 +1,22 @@
+.testimonial-slider {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .testimonial p {
+    font-style: italic;
+  }
+  
+  .testimonial h3 {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  .testimonial .title {
+    color: #666;
+    font-size: 1em;
+  }
+  
